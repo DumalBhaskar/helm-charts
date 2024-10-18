@@ -1,7 +1,7 @@
 # Default values for mern-backend.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
-mongodbUri: "mongodb+srv://vijay120519:zcmtVrfJvZtAMRwb@cluster0.m3ckt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+mongodbUri: "<mongo_uri>"
 jwtSecret: "jwt@secret"
 
 namespace: backend
